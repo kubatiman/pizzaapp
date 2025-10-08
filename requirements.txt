@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+moviepy
+numpy
+requests
+python-dotenv

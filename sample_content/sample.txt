@@ -1,0 +1,10 @@
+Welcome to Whop Video Generator!
+
+This is a sample text file that will be used to create a text-based video.
+You can add your own content to zip files and process them here.
+
+Supported formats:
+- Images: JPG, PNG, GIF, BMP, TIFF, WebP
+- Videos: MP4, AVI, MOV, MKV, WMV, FLV, WebM
+- Audio: MP3, WAV, AAC, FLAC, OGG, M4A
+- Documents: TXT, MD, PDF, DOC, DOCX
